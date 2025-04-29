@@ -65,7 +65,7 @@
 
 ## Структура приложения
 
-├── HeartRate Monitor Widget.exe&emsp;&emsp;&emsp;&emsp;&emsp;# Основной файл приложения<br>
+├── HeartRate_Monitor_Widget.exe&emsp;&emsp;&emsp;&emsp;&emsp;# Основной файл приложения<br>
 ├── config.ini&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;# Файл конфигурации *(создается автоматически)*<br>
 ├── skins/&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Папка со скинами web-виджета (CSS-файлы)<br>
 ├── icons/&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Папка с иконками web-виджета (SVG-файлы)<br>
